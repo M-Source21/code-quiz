@@ -14,8 +14,8 @@ var initialsEl = document.getElementById("initials");
 var feedbackEl = document.getElementById("feedback");
 var questionTitle = document.getElementById("question-title");
 // sound effects
-var sfxRight = new Audio("assets/sfx/correct.wav");
-var sfxWrong = new Audio("assets/sfx/incorrect.wav");
+var sfxRight = new Audio("correct.wav");
+var sfxWrong = new Audio("incorrect.wav");
 function startQuiz() {
   // hide start screen
 var startScreenEl = document.getElementById("start-screen");
