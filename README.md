@@ -15,13 +15,15 @@ Used js and css bootstrap to create an interactive coding quiz game with timer, 
         link to question js
         link to scores js 
 
-        ![Start Page](https://octodex.github.com/images/yaktocat.png)
+        ![Start Page](startPage.jpg)
 
     logic.hs
         breaks down logic needed to execute functioning of quiz with comments describing each step 
 
     questions.js 
         includes titles, options as arrays, and correct answer 
+
+        ![Correct Question](correctAnswer.jpg)
 
     scores.js
         prints scores and enables user to clear scores 
@@ -32,3 +34,5 @@ Used js and css bootstrap to create an interactive coding quiz game with timer, 
         shows highscores 
         includes clear button 
         link to javascript 
+
+        ![Highscores](Highscores.jpg)
