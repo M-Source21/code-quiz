@@ -3,30 +3,32 @@
 
 Used js and css bootstrap to create an interactive coding quiz game with timer, scoring, and ability to store high scores. 
 
-    **index.html includes:
-        *highscores and timer at top of page 
-        *initial description of activity 
-        *start quiz button 
+    index.html includes:
+        highscores and timer at top of page 
+        initial description of activity 
+        start quiz button 
 
-        *html code for question pages 
-        *html code for final score page 
-        *html code for insertion of initals at end of quiz 
+        html code for question pages 
+        html code for final score page 
+        html code for insertion of initals at end of quiz 
 
-        *link to question js
-        *link to scores js 
+        link to question js
+        link to scores js 
 
-    **logic.hs
-        *breaks down logic needed to execute functioning of quiz with comments describing each step 
+        ![Start Page](https://octodex.github.com/images/yaktocat.png)
 
-    **questions.js 
-        *includes titles, options as arrays, and correct answer 
+    logic.hs
+        breaks down logic needed to execute functioning of quiz with comments describing each step 
 
-    *scores.js
-        **prints scores and enables user to clear scores 
+    questions.js 
+        includes titles, options as arrays, and correct answer 
 
-    **style.css included for style 
+    scores.js
+        prints scores and enables user to clear scores 
 
-    **highscores.html
-        *shows highscores 
-        *includes clear button 
-        *link to javascript 
+    style.css included for style 
+
+    highscores.html
+        shows highscores 
+        includes clear button 
+        link to javascript 
